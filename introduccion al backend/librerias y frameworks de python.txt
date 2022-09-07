@@ -1,0 +1,14 @@
+Librerías en Python:
+requests.
+tqdm.
+pillow.
+scrapy.
+numpy.
+pandas.
+scapy.
+matplotlib.
+
+Frameworks en Python:
+Fast API
+Flask
+Django
